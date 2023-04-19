@@ -1,0 +1,95 @@
+<center>
+    <table style="width: 650px; border:2px solid #000;padding: 10px;" border="0">
+        <tbody>
+            <tr>
+                <td colspan="4"></td>
+                <td colspan="2" style="vertical-align: top;" align="right">
+                    <table border="1" style="height: 90px; font-weight: bold; ">
+                        <tr bgcolor="#D9D9D9"><td align="center">COMPRA</td></tr>
+                        <tr><td align="center">NRO - !codigo¡ </td></tr>
+                        <tr><td align="center">Fecha - !fechacompra¡ </td></tr>
+                    </table>
+                </td>
+            </tr>
+            <tr style="height: 20px;"><td colspan="6"><br /></td></tr>
+            <tr>
+                <td colspan="6">
+                    <table style="width: 100%;">
+                        <tr bgcolor="#D9D9D9">
+                            <td colspan="4">
+                                <u>Detalle Proveedor</u>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="15">Ruc:</td>
+                            <td style="border-bottom: 1px solid black;"><center>!rucproveedor¡</center></td>
+                            <td width="100">Razon Social:</td>
+                            <td style="border-bottom: 1px solid black;"><center>!nombreproveedor¡</center></td>
+                        </tr>
+                    </table>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6">
+                    <table style="width: 100%;" border="0">
+                        <tr bgcolor="#D9D9D9">
+                            <td colspan="4">
+                                <u>Tienda Destino</u>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="15">Ruc:</td>
+                            <td style="border-bottom: 1px solid black;"><center>!ructienda¡</center></td>
+                            <td width="110">Nombre Tienda:</td>
+                            <td style="border-bottom: 1px solid black;"><center>!nombretienda¡</center></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 10px;"></tr>
+            <tr style="height: 10px;"><td style="height:10px"></td></tr>
+            <tr bgcolor="#D9D9D9">
+                <td colspan="6">
+                    <u>Detalle Productos</u>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6">
+                    <table border="1" style=" width: 100%;">
+                        <thead>
+                            <tr bgcolor="#D9D9D9">
+                                <th style="width: 15%;">Cantidad</th>
+                                <th style="width: 50%;">Concepto</th>
+                                <th style="width: 20%;">P.Unit</th>
+                                <th style="width: 25%;">Importe</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            !filasproductos¡
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4"></td>
+                <td colspan="2" align="right">
+                    <table style="font-weight: bold; width: 150px;">
+                        <tr>
+                            <td>Total S/.</td>
+                            <td style="border:1px solid black;">!totacosto¡</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>

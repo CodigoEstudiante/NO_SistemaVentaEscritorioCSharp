@@ -1,0 +1,6 @@
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.pdb

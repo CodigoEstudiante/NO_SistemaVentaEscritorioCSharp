@@ -1,0 +1,96 @@
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.MDIMaster.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmUsuario.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnUsuario.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmTienda.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnTienda.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmRol.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnRol.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmProveedor.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnProveedor.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmCategoria.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnCategoria.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmProducto.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnProducto.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmProductoTienda.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmBusqueda.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmRegistrarCompra.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmCrearVenta.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmDocumento.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmConsultarVenta.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmDocumentoCompra.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmConsultarCompra.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmRolPermiso.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.rptProductoTienda.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.rptVentas.resources
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.Login.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmBusqueda.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmCategoria.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmConsultarCompra.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmConsultarVenta.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmCrearVenta.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmDocumento.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmDocumentoCompra.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmProducto.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmProductoTienda.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmProveedor.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmRegistrarCompra.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmRol.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmRolPermiso.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmTienda.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.frmUsuario.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.Login.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.MDIMaster.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnCategoria.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnProducto.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnProveedor.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnRol.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnTienda.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.mtnUsuario.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.rptProductoTienda.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.rptVentas.resources
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\WorkSpaceAD\YOUTUBE\009_FUNCIONALIDAD SISTEMA VENTAS C#\SistemadeVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
